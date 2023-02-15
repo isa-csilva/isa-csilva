@@ -1,7 +1,8 @@
 ### Olá! 👋
-Sou formada em Gestão de Tecnologia da Informação pela Faculdade de Petrolina (FACAPE), e atualmente estou estudando programação. Estou me dedicando muito aos estudos e pretendo me tornar uma Desenvolvedora Front-End! </br>
+###### Sou acadêmica de Engenharia de Software e também estou cursando Técnico em Desenvolvimento de Sistemas. 📚 </br>
+Venho estudando programação a um tempo e tenho o objetivo de atuar na área de desenvolvimento.</br>
 🌱 No momento estou estudando Javascript. </br>
-✨ Algumas das tecnologias as quais possuo conhecimento são Python, MySQL, HTML, CSS, Adobe Photoshop e Corel Draw.
+✨ Algumas das tecnologias nas quais possuo conhecimento são Python, MySQL, HTML, CSS, Adobe Photoshop e Corel Draw.
 
 <!--
 **isa-csilva/isa-csilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
