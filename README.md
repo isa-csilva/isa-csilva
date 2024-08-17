@@ -1,6 +1,6 @@
 ### Olá! 👋
 📚 Graduanda em Engenharia de Software </br>
-💻 Formada em Gestão de TI
+💻 Formada em Gestão de TI </br>
 👨‍💻 Me desenvolvendo no mundo da programação
 
 <!--
