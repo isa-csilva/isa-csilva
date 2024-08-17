@@ -1,8 +1,7 @@
 ### Olá! 👋
-Sou graduanda em Engenharia de Software e também estou cursando Técnico em Desenvolvimento de Sistemas. 📚 </br>
-Venho estudando programação a um tempo e tenho o objetivo de atuar na área de desenvolvimento.</br>
-🌱 No momento estou estudando Javascript. </br>
-✨ Algumas das tecnologias nas quais possuo conhecimento são HTML, CSS, JavaScript, Angular, Git e MySQL.
+📚 Graduanda em Engenharia de Software </br>
+💻 Formada em Gestão de TI
+👨‍💻 Me desenvolvendo no mundo da programação
 
 <!--
 **isa-csilva/isa-csilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
