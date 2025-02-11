@@ -1,6 +1,6 @@
 ### Olá! 👋
-📚 Graduanda em Engenharia de Software </br>
-💻 Formada em Gestão de TI </br>
+📚 Graduanda em Análise e Desenvolvimento de Sistemas pela UNIVASF </br>
+💻 Graduada em Gestão de TI pela Faculdade de Petrolina (FACAPE) </br>
 👨‍💻 Me desenvolvendo no mundo da programação
 
 <!--
